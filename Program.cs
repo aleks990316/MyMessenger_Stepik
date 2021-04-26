@@ -6,7 +6,7 @@ namespace MyMessenger_Stepik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Начало проекта!");
         }
     }
 }

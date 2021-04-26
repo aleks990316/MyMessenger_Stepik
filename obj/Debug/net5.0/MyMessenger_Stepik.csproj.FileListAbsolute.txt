@@ -1,0 +1,16 @@
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\MyMessenger_Stepik.exe
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\MyMessenger_Stepik.deps.json
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\MyMessenger_Stepik.runtimeconfig.json
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\MyMessenger_Stepik.runtimeconfig.dev.json
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\MyMessenger_Stepik.dll
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\ref\MyMessenger_Stepik.dll
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\MyMessenger_Stepik.pdb
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.csprojAssemblyReference.cache
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.AssemblyInfoInputs.cache
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.AssemblyInfo.cs
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.dll
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\ref\MyMessenger_Stepik.dll
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.pdb
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.genruntimeconfig.cache

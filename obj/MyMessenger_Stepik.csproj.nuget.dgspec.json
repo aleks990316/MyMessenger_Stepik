@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Александр\\source\\repos\\MyMessenger_Stepik\\ConsoleClient\\MyMessenger_Stepik.csproj": {}
+    "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Александр\\source\\repos\\MyMessenger_Stepik\\ConsoleClient\\MyMessenger_Stepik.csproj": {
+    "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Александр\\source\\repos\\MyMessenger_Stepik\\ConsoleClient\\MyMessenger_Stepik.csproj",
+        "projectUniqueName": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj",
         "projectName": "MyMessenger_Stepik",
-        "projectPath": "C:\\Users\\Александр\\source\\repos\\MyMessenger_Stepik\\ConsoleClient\\MyMessenger_Stepik.csproj",
+        "projectPath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj",
         "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Александр\\source\\repos\\MyMessenger_Stepik\\ConsoleClient\\obj\\",
+        "outputPath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
