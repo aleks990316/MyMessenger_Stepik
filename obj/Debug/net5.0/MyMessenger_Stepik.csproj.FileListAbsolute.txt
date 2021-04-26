@@ -14,3 +14,5 @@ C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debu
 C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\ref\MyMessenger_Stepik.dll
 C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.pdb
 C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.genruntimeconfig.cache
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Александр\Source\Repos\aleks990316\MyMessenger_Stepik\obj\Debug\net5.0\MyMessenger_Stepik.csproj.CopyComplete
