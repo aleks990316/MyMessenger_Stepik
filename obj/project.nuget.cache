@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/ZGuTvU8izihJwf082pUsI8Imzc4Y4Zg7TEHx5VVOUdHhacHUWu+U6lsqe9e1qFJn4OGVq8+OjkmDeFrAVfAg==",
+  "dgSpecHash": "IunqwM6v2MtFpFkZVKWalWjeozyZ+33/Fz2C0kGsdg0lRzbjlwgxXQwdxBjheZsap823A0E4zx5uzGIGlQtEEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj",
+  "projectFilePath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\ConsoleClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Александр\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

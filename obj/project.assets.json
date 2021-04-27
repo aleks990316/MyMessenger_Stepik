@@ -54,9 +54,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj",
-      "projectName": "MyMessenger_Stepik",
-      "projectPath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\MyMessenger_Stepik.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\ConsoleClient.csproj",
+      "projectName": "ConsoleClient",
+      "projectPath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\ConsoleClient.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Александр\\Source\\Repos\\aleks990316\\MyMessenger_Stepik\\obj\\",
       "projectStyle": "PackageReference",
